@@ -314,3 +314,83 @@ cs:
     ORDER_DETAILS: Detail objednávky
     THANKS_FOR_YOUR_ORDER: Děkujeme za vaši objednávku
     PLEASE_FILL_ALL_THE_REQUIRED_FIELDS: Prosím vyplňte všechna vyžadovaná pole
+
+es:
+  PLUGIN_SHOPPINGCART:
+    DETAILS: Detalles
+    PRICE: Precio
+    INCLUDING_TAXES: Incluyendo impuestos
+    EXCLUDING_TAXES: Excluyendo impuestos
+    ADD_TO_CART: Agregar al carrito
+    DESCRIPTION: Descripción
+    NO_PRODUCTS_FOUND: No se han encontrado productos
+    CHECKOUT_PAGE_TITLE: Checkout
+    CHECKOUT_HEADLINE_YOUR_PERSONAL_DETAILS: "## Tus detalles personales"
+    CHECKOUT_FIRST_NAME: Nombre
+    CHECKOUT_LAST_NAME: Apellido
+    CHECKOUT_EMAIL: Correo electrónico
+    CHECKOUT_PHONE: Número de teléfono
+    CHECKOUT_HEADLINE_YOUR_ADDRESS: "## Tu dirección"
+    CHECKOUT_ADDRESS: Dirección
+    CHECKOUT_CITY: Ciudad
+    CHECKOUT_ZIP: Codigo postal
+    CHECKOUT_COUNTRY: País
+    CHECKOUT_STATE: Estado
+    CHECKOUT_PROVINCE: Provincia
+    CHECKOUT_CHOOSE_SHIPPING_METHOD: Selecciona un método de envío
+    CHECKOUT_CHOOSE_SHIPPING_METHOD_DESC: Porfavor selecciona como quieres que tus productos sean enviados.
+    CHECKOUT_CHOOSE_PAYMENT_METHOD: Selecciona un método de pago
+    CHECKOUT_CHOOSE_PAYMENT_METHOD_DESC: Porfavor, selecciona un método de pago.
+    CHECKOUT_PAYMENT_SECURE_NOTE: Todas las transacciones son seguras y encriptadas. Nunca guardaremos la información de tu tarjeta de crédito. Para más información, lee nuestras políticas de privacidad.
+    CHECKOUT_BUTTON_BACK: Atras
+    CHECKOUT_BUTTON_PAY: Seguir y pagar
+    PRICE_DO_NOT_INCLUDE_TAXES: Los impuestos no están incluídos. Los impuestos son calculados después de seleccionar tu país en el checkout.
+    ORDER_SUCCESSFUL_PAGE_TITLE: Tu compra ha sido satisfactoria
+    ITEMS_PURCHASED: Productos comprados:
+    ORDER_SUCCESSFUL_CONFIRMATION_TEXT: Gracias por tu orden! La orden será procesada y te contactaremos cuando sea enviada hacia ti.
+    ORDER_PAGE_WRONG_TOKEN_MESSAGE: No tienes permitido ver esta página. Estás seguro que la dirección URL es la correcta?
+    LOADING_WORD_BEFORE_ORDER_CONFIRMATION_PAGE: Cargando..
+    DOWNLOAD: Descargar
+    SHOPPING_CART: Carrito de compras
+    YOU_ARE_PURCHASING_THESE_ITEMS: Estas comprando estos productos:
+    ITEM: Item
+    QUANTITY: Cantidad
+    TOTAL: Total
+    REMOVE: Remover
+    UPDATE_QUANTITIES: Actualizar cantidades
+    CHECKOUT: Checkout
+    INCLUDING_SHIPPING: Incluyendo envío
+    ORDER_CANCELLED: Orden cancelada
+    YOU_CANCELLED_THE_ORDER: Has cancelado la orden
+    VALUE_NOT_ACCEPTABLE: El valor que has introducido como cantidad es invalido.
+    QUANTITY_EXCEEDS_MAX_ALLOWED_VALUE: La cantidad excede el valor máximo permitido.
+    CHECKOUT_PAYMENT_METHOD: "## Método de pago"
+    CHECKOUT_SHIPPING_METHOD: "## Método de envío"
+    THANK_YOU: Gracias por tu compra
+    CHOOSE_AN_OPTION: Selecciona una opción
+    EDIT_CART: Editar el carrito
+    QUANTITY_SHORT: Ctd
+    NO_ITEMS_IN_CART: No has agregado items al carrito.
+    PRODUCT_ADDED_TO_CART: El producto ha sido agregado al carrito.
+    PRODUCTS_BOUGHT: Productos comprados
+    SEE_THE_ORDER_DETAILS: Ver los detalles de la orden
+    TERMS_AND_CONDITIONS: "Aceptar términos y condiciones"
+    SORRY_CANNOT_SHIP_TO_YOUR_COUNTRY: Lo sentimos, no hacemos envíos a tu país
+    READ_MORE: Leer más
+    MINIMUM_TO_PLACE_AN_ORDER: Mínimo para realizar un pedido
+    PAYPAL: PayPal
+    CREDITCARD: Credit card
+    SHIPPING: Envío
+    TAXES: Impuestos
+    SUBTOTAL: Subtotal
+    CONTINUE_SHOPPING: Seguir comprando
+    DOWNLOAD_EXPIRED: La descarga ha expirado
+    TOTAL_PAID: Monto pagado
+    ORDER_ID: Numero de Pedido
+    ORDER_DATE: Fecha de Pedido
+    NO_ORDERS_FOUND: No hay pedidos encontrados
+    MANAGE_ORDERS: Manejar pedidos
+    ORDERS: Pedidos
+    ORDER_DETAILS: Detalles del pedido
+    THANKS_FOR_YOUR_ORDER: Gracias por tu pedido
+    PLEASE_FILL_ALL_THE_REQUIRED_FIELDS: Porfavor llena todos los campos requeridos
